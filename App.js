@@ -106,7 +106,7 @@ export default class App extends Component<Props> {
                 >
                     <Text style={{
                         backgroundColor: 'white',
-                        padding: 25
+                        padding: 20
                     }}
                     >
                         {address}
